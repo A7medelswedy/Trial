@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\Assismant\Assismant\bin\Debug\Assismant.exe.config
+C:\Users\Admin\source\repos\Assismant\Assismant\bin\Debug\Assismant.exe
+C:\Users\Admin\source\repos\Assismant\Assismant\bin\Debug\Assismant.pdb
+C:\Users\Admin\source\repos\Assismant\Assismant\obj\Debug\Assismant.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Assismant\Assismant\obj\Debug\Assismant.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\Assismant\Assismant\obj\Debug\Assismant.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Assismant\Assismant\obj\Debug\Assismant.exe
+C:\Users\Admin\source\repos\Assismant\Assismant\obj\Debug\Assismant.pdb
